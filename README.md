@@ -8,7 +8,7 @@ Get details about the User Information.
 
 # Usage
 
-```
+```js
 var ui = require('user-info');
 
 ui.userinf();
