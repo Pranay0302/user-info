@@ -1,25 +1,26 @@
 {
-  "name": "user-info",
-  "version": "1.0.0",
-  "description": "gets the deets about the user information",
-  "main": "index.js",
-  "directories": {
-    "lib": "lib"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Pranay0302/user-info.git"
-  },
-  "keywords": [
-    "userinf"
-  ],
-  "author": "Pranay Kumar Andra",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Pranay0302/user-info/issues"
-  },
-  "homepage": "https://github.com/Pranay0302/user-info#readme"
+    "name": "userinfs",
+    "version": "1.0.0",
+    "description": "gets the deets about the user information",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Pranay0302/user-info.git"
+    },
+    "keywords": [
+        "userinf",
+        "user-info"
+    ],
+    "author": "Pranay Kumar Andra",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Pranay0302/user-info/issues"
+    },
+    "homepage": "https://github.com/Pranay0302/user-info#readme"
 }

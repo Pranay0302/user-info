@@ -4,12 +4,12 @@ Get details about the User Information.
 
 # Installation
 
-`npm i user-info --save`
+`npm i userinfs --save`
 
 # Usage
 
 ```js
-var ui = require('user-info');
+var ui = require('userinfs');
 
 ui.userinf();
 
