@@ -9,7 +9,8 @@ Get details about the User Information.
 # Usage
 
 ```js
-var ui = require('userinfs');
+
+var ui = require('userinfs/lib');
 
 ui.userinf();
 
